@@ -40,4 +40,4 @@ int main()
         printf("\nBoth string must contain same number of character to be an Anagram Strings");
     getch();
     return 0;
-
+}
